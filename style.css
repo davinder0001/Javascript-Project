@@ -1,0 +1,23 @@
+body {
+ width: 90%;
+ height: 90%;
+ background: silver;
+margin: auto;
+padding: 5%;
+}
+li {
+text-align: center;
+padding: 10px;
+}
+
+li input {
+	margin-right: 50px;
+}
+li button {
+	margin-left: 50px;
+}
+
+.mp {
+	height: 300px;
+	width: 500px;
+}
